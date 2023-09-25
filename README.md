@@ -106,11 +106,7 @@ Agradecemos antecipadamente por suas contribuições!
 
 Este projeto está licenciado sob a Licença MIT.
 
-Feito com ❤️ por [Seu Nome] - [Link para o seu GitHub](https://github.com/seu-usuario)
-
-Certifique-se de substituir `Matheus Garcia Nogueira` pelo seu nome ou nome de usuário e `https://www.linkedin.com/in/matheusgarcianogueira/` pelo link para o seu perfil no GitHub.
-
-
+Feito com ❤️ por Matheus Garcia Nogueira - https://www.linkedin.com/in/matheusgarcianogueira/
 
 
 
